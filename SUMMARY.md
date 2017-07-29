@@ -1,0 +1,16 @@
+# Summary
+
+* [WWT Study Chopper](studychopper.md)
+  * [The Study Chopper Dialog](studychopper.md#the-study-chopper-dialog)
+  * [Creating Image Pyramids and Thumbnails](studychopper.md#creating-image-pyramids-and-thumbnails)
+  * [Creating Local and Final WTML Files](studychopper.md#creating-local-and-final-wtml-files)
+    * [Plate Files](studychopper.md#plate-files)
+    * [AVM Tags](studychopper.md#avm-tags)
+  * [Image Alignment within WorldWide Telescope](studychopper.md#image-alignment-within-worldwide-telescope)
+  * [Initializing Study Chopper](studychopper.md#initializing-study-chopper)
+  * [Command Line Input to Study Chopper](studychopper.md#command-line-input-to-study-chopper)
+* [WWT Sphere Toaster](spheretoaster.md)
+  * [Preparing a Single Image](spheretoaster.md#preparing-a-single-image)
+  * [Special Cases](spheretoaster.md#special-cases)
+  * [Initializing Sphere Toaster](spheretoaster.md#initializing-sphere-toaster)
+  * [Command Line Input to Sphere Toaster](spheretoaster.md#command-line-input-to-sphere-toaster)
