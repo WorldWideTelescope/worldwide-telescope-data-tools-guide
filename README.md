@@ -1,4 +1,11 @@
-# WorldWide Telescope Data Tools Guide
+# This Repository Has Been Superseded
+
+Its content has been moved to the [Data Guide][dg].
+
+[dg]: https://github.com/WorldWideTelescope/worldwide-telescope-data-guide/
+
+
+## WorldWide Telescope Data Tools Guide
 
 This document describes the use of a number of tools that can be used to help prepare data for the WorldWide Telescope.
 
